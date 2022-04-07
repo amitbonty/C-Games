@@ -1,4 +1,4 @@
-# Connect4 and Minesweeper
+# Minesweeper and Connect4
 <br>-Replica of Minesweeper developed using C++.
 <br>-Replica of Connect4 developed using C++ and data structures.   
 
